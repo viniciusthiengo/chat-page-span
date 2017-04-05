@@ -11,10 +11,10 @@
     app:justifyContent="space_between"
     tools:context="br.com.thiengo.chatpage.MainActivity">
 
-
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Alien"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_alien" />
@@ -22,6 +22,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Confuso"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_confused" />
@@ -29,6 +30,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Feliz"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_happy" />
@@ -36,6 +38,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon do Harry Potter"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_harry_potter" />
@@ -43,6 +46,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Apaixonado"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_in_love"
@@ -51,6 +55,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Sorrindo"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_laughing" />
@@ -58,6 +63,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Pessoas"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_people" />
@@ -65,6 +71,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Aliviado"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_relieved" />
@@ -72,6 +79,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Rico"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_rich"
@@ -80,6 +88,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Triste"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_sad" />
@@ -87,6 +96,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Muito Triste"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_sad_1" />
@@ -94,6 +104,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Extramente Triste"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_sad_2" />
@@ -101,6 +112,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Doente"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_sick"
@@ -109,6 +121,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Rindo"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_smile" />
@@ -116,6 +129,7 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Pensando"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_thinking" />
@@ -123,9 +137,8 @@
     <ImageView
         android:layout_width="48dp"
         android:layout_height="48dp"
+        android:contentDescription="Emoticon Dando Uma Piscadela"
         android:onClick="chosenEmoticon"
         android:scaleType="center"
         android:src="@drawable/ic_emoticon_wink" />
-
-
 </com.google.android.flexbox.FlexboxLayout>

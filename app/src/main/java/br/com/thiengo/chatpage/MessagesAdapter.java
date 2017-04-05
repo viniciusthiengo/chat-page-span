@@ -10,9 +10,6 @@ import android.widget.TextView;
 
 import java.util.LinkedList;
 
-/**
- * Created by viniciusthiengo on 04/04/17.
- */
 
 public class MessagesAdapter extends RecyclerView.Adapter<MessagesAdapter.ViewHolder> {
     private Context context;
