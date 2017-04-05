@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.flexbox.FlexboxLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="20dp"
+    app:flexWrap="wrap"
+    app:justifyContent="space_between"
+    tools:context="br.com.thiengo.chatpage.MainActivity">
+
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_alien" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_confused" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_happy" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_harry_potter" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_in_love"
+        app:layout_wrapBefore="true" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_laughing" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_people" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_relieved" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_rich"
+        app:layout_wrapBefore="true" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_sad" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_sad_1" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_sad_2" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_sick"
+        app:layout_wrapBefore="true" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_smile" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_thinking" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="chosenEmoticon"
+        android:scaleType="center"
+        android:src="@drawable/ic_emoticon_wink" />
+
+
+</com.google.android.flexbox.FlexboxLayout>
