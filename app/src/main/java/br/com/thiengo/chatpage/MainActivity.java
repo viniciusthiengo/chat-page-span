@@ -10,6 +10,7 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.text.Editable;
 import android.text.Spannable;
+import android.text.SpannableString;
 import android.text.SpannableStringBuilder;
 import android.text.TextWatcher;
 import android.text.style.ImageSpan;
@@ -196,7 +197,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher {
         }
     }
     @Override
-    public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {}
+    public void beforeTextChanged(CharSequence s, int start, int count, int after) {}
     @Override
     public void afterTextChanged(Editable editable) {}
 
