@@ -12,6 +12,8 @@ O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.
 
 Caso você queira ter acesso à primeira parte do artigo, então [entre por aqui](https://www.thiengo.com.br/como-utilizar-spannable-no-android-para-customizar-strings#title-01). Nesta primeira parte a estrutura de `CharSequence` é estudada em detalhes.
 
+<img src="https://www.thiengo.com.br/img/post/normal/dctma98p1qdvi3itvvavt70do3894af5599a4b252b26ff2d91b7da2c10.jpg" width="325" alt="Diagrama de classe da hierarquia de CharSequence no Java">
+
 ### Primeiro projeto
 
 Para ter acesso ao primeiro projeto de exemplo do artigo você pode estar [entrando aqui](https://www.thiengo.com.br/como-utilizar-spannable-no-android-para-customizar-strings#title-03) ou indo direto ao repositório dele [por aqui](https://github.com/viniciusthiengo/spannable-string-test).
