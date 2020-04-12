@@ -1,6 +1,6 @@
 # Chat Page (Java Android)
 
-Segundo projeto Java Android do artigo [Como Utilizar Spannable no Android Para Customizar Strings](https://www.thiengo.com.br/como-utilizar-spannable-no-android-para-customizar-strings#title-03) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
+Segundo projeto Java Android do artigo [Como Utilizar Spannable no Android Para Customizar Strings](https://www.thiengo.com.br/como-utilizar-spannable-no-android-para-customizar-strings#title-20) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
 Artigo que discute em detalhes a customização de strings Android utilizando a API Spannable.
 
